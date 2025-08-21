@@ -1,0 +1,2 @@
+# Music-Generator
+AI Music Generator (Streamlit App)  An interactive Streamlit-based AI Music Generator that lets you create music and vocals from text prompts, lyrics, or random seeds. Built with Python, AI models, and audio processing tools.  Features  Generate instrumental music from text prompts.  Convert lyrics into AI-sung vocals.  Create randomized melodies and beats.  Control duration, tempo, and genre.  Download output as .wav or .mp3.  User-friendly Streamlit web interface.  Installation  Clone this repository:
