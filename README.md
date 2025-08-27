@@ -38,11 +38,6 @@ Then install the remaining dependencies:
 pip install -r requirements.txt
 ```
 
-If you face any `tokenizers` version issues:
-```bash
-pip install --upgrade tokenizers>=0.15.2
-```
-
 ### 3) Run the app
 ```bash
 streamlit run app.py
@@ -83,7 +78,7 @@ On first run, the AI models will download, which may take a few minutes dependin
 
 ## 🧱 What this app is (and isn’t)
 
-- ✅ Local AI Music Generator with text → instrumental & vocal music.  
+- ✅ Local AI Music Generator with text → instrumental music.  
 - ✅ Streamlit interface for easy experimentation.  
 - ❌ It does not produce multi-track stems or full DAW arrangements.  
 - ❌ It is not a professional music production tool — for mixing and mastering, use a DAW.  
